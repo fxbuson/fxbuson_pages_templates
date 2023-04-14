@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FXBuson Template Test
+description: A simple docs page made from a template
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://fxbuson.github.io/fxbuson_pages_templates/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repository: https://github.com/fxbuson/fxbuson_pages_templates
